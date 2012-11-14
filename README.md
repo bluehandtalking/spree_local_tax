@@ -1,7 +1,7 @@
-SpreeLocalTax
+SpreeCloudTax
 =============
 
-Local tax calculation (i.e. state based for US taxation) for Spree Commerce.
+Tax Cloud calculation (i.e. zip code based for US taxation) for Spree Commerce.
 
 Design goals:  
 
