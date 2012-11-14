@@ -24,8 +24,11 @@ After installation, a new tax calculator will be available under Configuration -
 TODO
 ====
 
-* Support for taxcloud or other tax API
 * Right now the extension requires that you have `spree_advanced_reporting` installed, this requirement should be removed.
 * The code that monkeypatches the `Spree::ReportsController` is pretty messy right now. Unfortunately there is not an easy way to clean this up without improvements to the class itself. There is an [issue open](https://github.com/spree/spree/issues/1863) describing this problem.
 
+
 Copyright (c) 2012 Michael Bianco (@iloveitaly), released under the New BSD License
+
+Support for Tax Cloud Copyright (c) by Jerrold R Thompson (jet@whidbey.com) released under the MIT license.
+
