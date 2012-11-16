@@ -21,7 +21,7 @@ Gem::Specification.new do |s|
 
   # this is for the local tax reports
   # you can rip out the reporting and safely remove this dependency in a fork
-  # s.add_dependency 'spree_advanced_reporting'
+  s.add_dependency 'spree_advanced_reporting'
 
   # s.add_development_dependency 'rspec-rails', '~> 2.9'
   # s.add_development_dependency 'factory_girl', '~> 2.6.4'

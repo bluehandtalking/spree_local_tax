@@ -17,5 +17,5 @@ end
 gem 'spree', '~> 1.1.2'
 
 # use tax cloud as a gem
-gem 'tax_cloud', :git => 'git://github.com/drewtempelmeyer/tax_cloud.git'
+gem 'tax_cloud', :git => 'git://github.com/bluehandtalking/tax_cloud.git'
 
