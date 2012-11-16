@@ -17,6 +17,8 @@ Gem::Specification.new do |s|
 
   s.add_dependency 'spree_core', '~> 1.1.2'
   s.add_dependency 'ruport'
+  # jet include tax_cloud
+  s.add_dependency 'tax_cloud',  :git => 'git://github.com/bluehandtalking/tax_cloud.git' 
   # s.add_dependency 'spree_advanced_reporting'
 
   # this is for the local tax reports
